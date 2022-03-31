@@ -38,7 +38,7 @@
     <properties>
         <mybatis.version>2.1.0</mybatis.version>
         <lombok.version>1.18.12</lombok.version>
-        <springboot.version>2.2.0.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <fastjson.version>1.2.62</fastjson.version>
         <java.version>11</java.version>
         <mysql.connector.version>6.0.6</mysql.connector.version>
